@@ -9,10 +9,13 @@ def midi_to_mp3(midi_file, soundfont, mp3_file):
     os.remove(wav_file)
 
 
-all_midi_sources = os.listdir("./midi_sources")
+all_midi_sources = [
+    f'./midi_sources/{file_name}'
+    for file_name in os.listdir("./midi_sources")
+]
 soundfont_addr = "/usr/share/sounds/sf2/default-GM.sf2"
 all_mp3_names = [
-    f'./midi_sources/{file_name.replace(".midi", ".mp3")}'
+    file_name.replace(".midi", ".mp3")
     for file_name in all_midi_sources
 ]
 
