@@ -15,7 +15,7 @@ all_midi_sources = [
 ]
 soundfont_addr = "/usr/share/sounds/sf2/default-GM.sf2"
 all_mp3_names = [
-    file_name.replace(".midi", ".mp3")
+    file_name.replace(".midi", ".mp3").replace("midi_sources", "compiled_mp3")
     for file_name in all_midi_sources
 ]
 
