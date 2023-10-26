@@ -1,0 +1,86 @@
+{
+  "form_a": {
+    "q5": {
+      "Not during the past month": 0,
+      "Less than once a week": 1,
+      "Once or twice a week": 2,
+      "Three or more times a week": 3
+    },
+    "q6": {
+      "Very good": 0,
+      "Fairly good": 1,
+      "Fairly bad": 2,
+      "Very bad": 3
+    },
+    "q7": {
+      "Not during the past month": 0,
+      "Less than once a week": 1,
+      "Once or twice a week": 2,
+      "Three or more times a week": 3
+    },
+    "q8": {
+      "Never": 0,
+      "Once or twice": 1,
+      "Once or twice each week": 2,
+      "Three or more times each week": 3
+    },
+    "q9": {
+      "No problem at all": 0,
+      "Only a very slight problem": 1,
+      "Somewhat of a problem": 2,
+      "A very big problem": 3
+    }
+  },
+  "form_b": {
+    "q5": {
+      "No": 0,
+      "Yes": 3
+    },
+    "q6": {
+      "Very good": 0,
+      "Fairly good": 1,
+      "Fairly bad": 2,
+      "Very bad": 3
+    },
+    "q7": {
+      "No": 0,
+      "Yes": 3
+    },
+    "q8": {
+      "No": 0,
+      "Yes": 3
+    },
+    "q9": {
+      "No problem at all": 0,
+      "Only a very slight problem": 1,
+      "Somewhat of a problem": 2,
+      "A very big problem": 3
+    }
+  },
+  "form_c": {
+    "q5": {
+      "No": 0,
+      "Yes": 3
+    },
+    "q6": {
+      "Very good": 0,
+      "Fairly good": 1,
+      "Fairly bad": 2,
+      "Very bad": 3
+    },
+    "q7": {
+      "No": 0,
+      "Yes": 3
+    },
+    "q8": {
+      "No": 0,
+      "Yes": 3
+    },
+    "q9": {
+      "No problem at all": 0,
+      "Only a very slight problem": 1,
+      "Somewhat of a problem": 2,
+      "A very big problem": 3
+    }
+  }
+}
