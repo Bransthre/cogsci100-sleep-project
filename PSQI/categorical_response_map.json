@@ -19,10 +19,10 @@
       "Three or more times a week": 3
     },
     "q8": {
-      "Never": 0,
-      "Once or twice": 1,
-      "Once or twice each week": 2,
-      "Three or more times each week": 3
+      "Not during the past month": 0,
+      "Less than once a week": 1,
+      "Once or twice a week": 2,
+      "Three or more times a week": 3
     },
     "q9": {
       "No problem at all": 0,
